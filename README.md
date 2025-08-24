@@ -15,7 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ram_devotee_0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ram_devotee_0000" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@fitness_fever_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fitness_fever_2006" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fitness_fever_2006" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fitness_fever_2006" height="30" width="40" />
+</a>
+
 </p>
 
 
