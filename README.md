@@ -16,15 +16,21 @@
 ### 🌐 Connect with me  
 <p align="left">
 <a href="https://www.youtube.com/c/fitness_fever_2006" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" />
-</a>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" /><br>
+  YouTube
+</a>  
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/your-linkedin" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
-</a>
-<a href="mailto:your-email@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /><br>
+  LinkedIn
+</a>  
+&nbsp;&nbsp;&nbsp;
+<a href="abhinandankumar74804@gmail.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /><br>
+  Gmail
 </a>
 </p>
+
 
 ---
 
