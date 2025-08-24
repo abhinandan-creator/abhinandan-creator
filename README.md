@@ -12,24 +12,14 @@
 - ⚡ Fun fact: *I turn ☕ coffee into 🐍 Python code*  
 
 ---
-
-### 🌐 Connect with me  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/fitness_fever_2006" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" /><br>
-  YouTube
-</a>  
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /><br>
-  LinkedIn
-</a>  
-&nbsp;&nbsp;&nbsp;
-<a href="abhinandankumar74804@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /><br>
-  Gmail
-</a>
+<a href="https://instagram.com/ram_devotee_0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ram_devotee_0000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fitness_fever_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fitness_fever_2006" height="30" width="40" /></a>
 </p>
+
+
+
 
 
 ---
