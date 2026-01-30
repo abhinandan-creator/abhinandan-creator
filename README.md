@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
 <h3 align="center">Python & AI Developer | Automation Enthusiast | India</h3>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/236x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
+<img align="right" alt="Coding" width="380"
+     src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif" />
+
 
 ---
 
