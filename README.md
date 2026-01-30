@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
-<h3 align="center">Python & AI Developer | Automation Enthusiast | India</h3>
 
 <img align="right" alt="Coding" width="380"
      src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif" />
@@ -7,14 +6,13 @@
 
 ---
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 
-I am a motivated and detail-oriented **Python & AI Developer** with a strong interest in building intelligent systems and automation tools. I enjoy solving real-world problems using clean code and modern technologies.
+I am a motivated and detail-oriented Python & Data Analytics enthusiast with a strong interest in analyzing data and building practical solutions. I enjoy working with data, writing clean Python code, and transforming raw information into meaningful insights.
 
-- 🔭 Currently working on **AI Assistants & Automation Projects**
-- 🌱 Learning **Data Science, Machine Learning, and Web Development**
-- 💬 Comfortable with **Python, AI, Automation, Data Analysis**
-- ⚡ Fun fact: *I enjoy turning ideas into working code*
+🔭 Currently working on Python-based projects and Data Analytics tasks
+
+🌱 Actively learning Data Analytics, Power BI, Pandas
 
 ---
 
@@ -42,6 +40,7 @@ I am a motivated and detail-oriented **Python & AI Developer** with a strong int
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 </p>
 
 ---
